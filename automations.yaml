@@ -1,0 +1,20 @@
+- action:
+  - data:
+      entity_id: scene.solnedgang
+    service: scene.turn_on
+  alias: Solnedgang Ute
+  condition: []
+  id: '1514409131405'
+  trigger:
+  - event: sunset
+    platform: sun
+- action:
+  - data:
+      entity_id: group.ute
+    service: homeassistant.turn_off
+  alias: Soluppgang Ute
+  condition: []
+  id: '1514409611131'
+  trigger:
+  - event: sunrise
+    platform: sun

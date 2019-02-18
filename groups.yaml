@@ -1,0 +1,7 @@
+  ute:
+    name: ute
+    entities:
+      - switch.lz_ute_bak
+      - switch.lz_ute_fram
+      - switch.lz_ute_garage
+      - switch.lz_utelampa

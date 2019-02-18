@@ -1,0 +1,68 @@
+media_player.koketaudio:
+  homebridge_hidden: true
+media_player.apple_tv:
+  homebridge_hidden: true
+remote.apple_tv:
+  homebridge_hidden: true
+light.grovkok:
+  homebridge_hidden: true
+sensor.grovkok_dimmer:
+  homebridge_hidden: true
+light.grovkok_spot_1:
+  homebridge_hidden: true
+light.grovkok_spot_2:
+  homebridge_hidden: true
+light.grovkok_spot_3:
+  homebridge_hidden: true
+light.grovkok_spot_4:
+  homebridge_hidden: true
+switch.lz_ute_fram:
+  homebridge_hidden: true
+switch.lz_ute_garage:
+  homebridge_hidden: true
+switch.lz_utelampa:
+  homebridge_hidden: true
+automation.solnedgang_ute:
+  homebridge_hidden: true
+automation.soluppgang_ute:
+  homebridge_hidden: true
+media_player.storacasten:
+  homebridge_hidden: true
+sun.sun:
+  homebridge_hidden: true
+light.tradfri_group:
+  homebridge_hidden: true
+light.tradfri_bulb_e27_ws_opal_980lm:
+  homebridge_hidden: true
+sensor.tradfri_remote_control:
+  homebridge_hidden: true
+switch.v_fonsterlampor:
+  homebridge_hidden: true
+switch.v_ute_hus:
+  homebridge_hidden: true
+switch.v_ute_lillstugan:
+  homebridge_hidden: true
+switch.v_ute_snickarbod:
+  homebridge_hidden: true
+switch.v_utelampor:
+  homebridge_hidden: true
+switch.v1:
+  homebridge_hidden: true
+switch.v2:
+  homebridge_hidden: true
+switch.v3:
+  homebridge_hidden: true
+switch.v4_koket:
+  homebridge_hidden: true
+switch.v5_hall:
+  homebridge_hidden: true
+switch.v6_stora_rummet:
+  homebridge_hidden: true
+group.all_automations:
+  homebridge_hidden: true
+group.all_lights:
+  homebridge_hidden: true
+group.all_remotes:
+  homebridge_hidden: true
+group.all_switches:
+  homebridge_hidden: true

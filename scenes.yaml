@@ -1,0 +1,9 @@
+  - name: solnedgang
+    entities:
+      group.ute: on
+  - name: simhemma
+    entities:
+      light.grovkok_spot_1: on
+      light.grovkok_spot_2: on
+      light.grovkok_spot_3: on
+      light.grovkok_spot_4: on
