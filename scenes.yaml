@@ -7,19 +7,6 @@
       light.grovkok_spot_2: on
       light.grovkok_spot_3: on
       light.grovkok_spot_4: on
-	- name:KitchenMys
-		entities:
-			light.tradfri_bulb_e12_ws2_opal_600lm_7:
-				state: on
-				min_mireds: 250
-				max_mireds: 454
-				brightness: 179
-				supported_features: 35
-
-entities:
-    light.bedroom_lamp:
-      state: on
-      brightness: 150
-      rgb_color: [128, 0, 128]
-    light.zwave_dimmer_2_level:
-      state: off
+  - name: KitchenMys
+    entities:
+      light.tradfri_bulb_e12_ws2_opal_600lm_7: on
